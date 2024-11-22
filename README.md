@@ -5,6 +5,7 @@ This project demonstrates a PL/SQL application with the following features:
 - Data validation, exception handling, and indexing.
 - Transaction management and scheduling.
 - Secure coding practices to prevent SQL injection.
+- bulk processing 
 - CI/CD workflow for automation.
 
 ## Features
@@ -14,8 +15,4 @@ This project demonstrates a PL/SQL application with the following features:
 4. Secure Coding: Prevent SQL injection using bind variables.
 5. Scheduling: Automate tasks with Oracle 'DBMS_SCHEDULER'.
 6. CI/CD: Automate deployment via GitHub Actions.
-
-## Setup
-1. Clone the repository:
-   git clone <repo-url>
-   cd plsql-customers-products
+7. Bulk processing procedure 
